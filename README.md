@@ -17,7 +17,7 @@ The analysis is divided into four sections, saved in juypter notebooks in this r
 3. Pre-Processing the Data
 4. Build model to predict whether breast cell tissue is  malignant or Benign
 
-### Notebook 1: Identifying the problem and Getting data.
+### [Notebook 1](https://github.com/ShiroJean/Breast-cancer-risk-prediction/blob/master/NB1_IdentifyProblem%2BDataClean.ipynb): Identifying the problem and Getting data.
 **Notebook goal:Identify the types of information contained in our data set**
 In this notebook I used Python modules to import external data sets for the purpose of getting to know/familiarize myself with the data to get a good grasp of the data and think about how to handle the data in different ways. 
 ### Notebook 2: Exploratory Data Analysis
